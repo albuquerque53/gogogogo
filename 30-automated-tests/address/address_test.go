@@ -1,6 +1,7 @@
-package address
+package address_test
 
 import (
+	. "automated-tests/address"
 	"testing"
 )
 
